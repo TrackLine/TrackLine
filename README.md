@@ -38,10 +38,6 @@ When I'm not troubleshooting systems or writing Python scripts, you'll find me e
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrackLine&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrackLine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
@@ -64,9 +60,9 @@ When I'm not troubleshooting systems or writing Python scripts, you'll find me e
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](YOUR_WEBSITE_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_LINK)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://shalenkov.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trackline/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://trackline.t.me)
 
 </div>
 
